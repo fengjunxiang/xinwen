@@ -10,9 +10,8 @@
         <item name="android:textSize">18sp</item>
     </style>
 
-    <style name="Theme.Start" parent="android:Theme">
-        <item name="android:windowBackground">@drawable/img_0</item>
-        <item name="android:layout_marginTop">10dp</item>
+    <style name="Theme.Start" parent="android:Theme.Wallpaper">
+
         <item name="android:windowNoTitle">true</item>
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

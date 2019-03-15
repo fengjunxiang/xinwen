@@ -10,7 +10,7 @@
         android:layout_height="37dp"
         android:background="?attr/colorPrimary"
         app:titleTextColor="@color/colorText"
-        app:titleTextAppearance="?attr/android:textSize"
+
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 <RelativeLayout
